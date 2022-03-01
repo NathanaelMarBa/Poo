@@ -1,0 +1,15 @@
+D:\Poo\C#\Casa\Casa\bin\Debug\net6.0\Casa.exe
+D:\Poo\C#\Casa\Casa\bin\Debug\net6.0\Casa.deps.json
+D:\Poo\C#\Casa\Casa\bin\Debug\net6.0\Casa.runtimeconfig.json
+D:\Poo\C#\Casa\Casa\bin\Debug\net6.0\Casa.dll
+D:\Poo\C#\Casa\Casa\bin\Debug\net6.0\ref\Casa.dll
+D:\Poo\C#\Casa\Casa\bin\Debug\net6.0\Casa.pdb
+D:\Poo\C#\Casa\Casa\obj\Debug\net6.0\Casa.csproj.AssemblyReference.cache
+D:\Poo\C#\Casa\Casa\obj\Debug\net6.0\Casa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Poo\C#\Casa\Casa\obj\Debug\net6.0\Casa.AssemblyInfoInputs.cache
+D:\Poo\C#\Casa\Casa\obj\Debug\net6.0\Casa.AssemblyInfo.cs
+D:\Poo\C#\Casa\Casa\obj\Debug\net6.0\Casa.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Casa\Casa\obj\Debug\net6.0\Casa.dll
+D:\Poo\C#\Casa\Casa\obj\Debug\net6.0\ref\Casa.dll
+D:\Poo\C#\Casa\Casa\obj\Debug\net6.0\Casa.pdb
+D:\Poo\C#\Casa\Casa\obj\Debug\net6.0\Casa.genruntimeconfig.cache
